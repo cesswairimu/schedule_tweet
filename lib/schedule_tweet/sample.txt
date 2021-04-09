@@ -1,0 +1,6 @@
+this is the first line
+this is the second line
+this is the third line
+and this is of course the fourth line!
+This is an really really really really long string that should be more than 140 chars what do you think? are we there yet or not...this is totally your call please let me know when you think we have had enough!!!
+This is my last line!!
